@@ -51,10 +51,12 @@ apt-get install -y git
 git clone https://github.com/MonkeyDo/bartendro.git
 ```
 
-* This may take some time to download all the files from git
+* This may take a few minutes to download all the files from github - once completed proceed with:
+  
 ```
 cd scripts
-sudo ./install.sh
+chmod +x install.sh
+./install.sh
 ```
 
 * During the package install step, it will ask two questions about firewall files. Answer both with YES. (TBC)

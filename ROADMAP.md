@@ -22,6 +22,7 @@ Some improvements we want to make to Bartendro to disentangle it from mayhem's H
    * [ ] successive reboots helped for short amounts of time, but problem returned
    * [ ] after some time the bug stopped happening, no idea why
    * [ ] perhaps related to some queuing system I saw some old code for?
+   * [ ] might have been fixed with [PR #3](https://github.com/MonkeyDo/bartendro/pull/3)
 3. Setup wizard - current setup is complicated and lots of manual work, requires figuring out combinations on paper
    * [ ] wizard should allow you to easily select ingredients for each pump
    * [ ] then present a list of cocktails that can be served with the available ingredients

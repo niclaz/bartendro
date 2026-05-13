@@ -47,3 +47,7 @@ Some improvements we want to make to Bartendro to disentangle it from mayhem's H
    * [ ] write verbose logs to file (rotate logs?)
    * [ ] in admin UI, show logs from file
    * [ ] optional: if admin wishes they can request output of RPI system and kernel logs (makes RPI run `tail -100 /var/log/syslog` or `tail -100 /var/log/kern.log` and displays it in the UI for easy debugging.
+10. Investigate user_button.py
+    * [ ] see: https://github.com/MonkeyDo/bartendro/commits/master/scripts/user_button.py
+    * [ ] Is it implemented? Are we looking at some placeholder code for something that was not added?
+    * [ ] Consider deletion

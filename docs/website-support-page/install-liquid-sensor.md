@@ -3,7 +3,7 @@
 If you've purchased a liquid level sensor kit this is the place that will show you how to install it onto your Bartendro Dispenser.
 
 Tools: #2 Philips Screwdriver
-Relevant Parts: Liquid Level Sensor Kit
+Relevant Parts: Liquid Level Sensor Kit (part number: MPX5010DP)
 
 ### Step 1 — Prepare the Dispenser and Parts
 - Remove the clear dome with the hub from the dispenser so that you can rest the Dispenser flat for easier installation.

@@ -42,7 +42,7 @@ Some improvements we want to make to Bartendro to disentangle it from mayhem's H
 8. Test if Bartendro works on the new Raspberry Pi 5 platform running Pi OS that works on RPI 4.
    * [ ] Raspberry Pi OS (Legacy, 32-bit) / Buster-armhf-lite (March 2021)
    * [ ] Other Pi OS versions validated in testing above
-10. Better logging within admin UI
+9. Better logging within admin UI
    * [ ] write verbose logs to file (rotate logs?)
    * [ ] in admin UI, show logs from file
    * [ ] optional: if admin wishes they can request output of RPI system and kernel logs (makes RPI run `tail -100 /var/log/syslog` or `tail -100 /var/log/kern.log` and displays it in the UI for easy debugging.

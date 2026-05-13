@@ -355,3 +355,42 @@ Features:
 * Max Length of Serial Connection: 10ft
 * Tube Life: 500 Hours
 * Food Safe
+
+
+Dispenser information from archived website
+===================
+
+__Archive of https://web.archive.org/web/20161124220914/http://partyrobotics.com/pages/dispenser__
+
+We believe a superior product is one that gets out of the way, and enables you to get what you want done. Welcome to our favorite workhorse, the Bartendro Dispenser.
+
+It uses magnetic sensors to keep track of fractions of a revolution, which ensures ultra-precision regardless of what's being pumped. With multiple levels of protection in place, there is no need to worry about damaging your dispenser even in extreme conditions.
+
+An optional liquid level sensor helps you determine when something is running low, allowing for uninterrupted operation and bad-drink prevention.
+
+Advanced features such as a manual override button and bi-directional control give you the control and versatility you need for your most demanding applications. Finally, multi-color lighting gives a modern touch while giving you valuable information on the state of the dispenser.
+
+A Dispenser just needs to be supplied with motor power, logic power and serial communication over the RJ-45 connector. We decided on this interface connector because it is common and easy to connect to, these connectors are not compatible with Ethernet and may cause damage if plugged into a networking device. The connection can be hooked up directly to an Arduino or used in conjunction with one of our Router or miniRouter boards. Need application ideas? How about these: A pancake/crepe bot, juice bot, wine blending bot, coffee bot, timely pumping of water or nutrients for a pet, aquarium or tank of any sort, gardening projects, aquaponics, better controlled chemistry/biology/cooking experiments, etc. You will certainly come up with things we never thought of. Please do and tell us about it!
+
+### Includes
+- 1 Bartendro Dispener
+- 5ft Clear Tygon Tubing
+- 2 Compression Nuts
+- (optional) 1 Liquid Sensor Kit
+
+### Specs
+- Max Flow rate: 700mL/ min
+- Minimum Motor Voltage (Vin): 12V Recommended
+- Motor Voltage (Vin): 24V
+- Minimum Dispense Volume: 0.5mL if using PWM
+- Repeatability: 1mL or better
+- Current Consumption at 24V: up to 500mA while dispensing
+- Max Vertical Tubing Length: about 10ft
+- Max Length of Serial Connection: 10ft
+
+### Precautions
+- Not Intended for Medical Use.
+- Tube life (inside the pump) is approximately 500 hours of use.
+- It is not recommended to keep the clear tubing immersed in liquid for extended periods of time.
+- If storing long term, we recommended removing the beige tubing from the pump to extend its life.
+- Please use and drink responsibly.

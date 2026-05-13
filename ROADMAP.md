@@ -34,5 +34,8 @@ Some improvements we want to make to Bartendro to disentangle it from mayhem's H
    * included: raspi-config already run (setting Wifi country to ES/Spain)
    * included: all files from the repo
    * included: username & passwd + wifi SSID & password of AP
-
 6. Test if this works for Raspberry Pi 5
+7. Better logging
+   * write verbose logs to file (rotate logs?)
+   * in admin UI, show logs from file
+   * option to show raspberrypi system/kernel logs as well
